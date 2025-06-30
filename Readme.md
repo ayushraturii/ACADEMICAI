@@ -50,7 +50,7 @@ A basic html ,css javascript code to give a feel like a chatbot.
 * we can try vercel kind of platform
 * can dockerize this and then push the container on ec2 (i recently learn so chances are higher i will go with this.)
 
-### what chances i will initiate as soon as possible
+### what changes i will initiate as soon as possible
 * ADD more notes pdf 
 * implementing unstructured pdf loader for images and scanned pdf
 - semantic based text splitter (its experimental can be seen later not now) or chunksize could be reduced to 1000
@@ -60,8 +60,4 @@ A basic html ,css javascript code to give a feel like a chatbot.
 * In FASTApi we could figure some more validation part
 * For frontend we can opt for REACT as it will me more scalable and looks more practical for such project although current scripts are also working fine
 
-<address>
-Thankyou 
-<author>AYUSH RATURI</author>
-</address>
 

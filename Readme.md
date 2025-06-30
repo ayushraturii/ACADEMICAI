@@ -10,8 +10,9 @@ To overcome this hassle i develop this chatbot assistant which helps Graudates t
 ## Working
 Before breaking down each component i believe its good to go first with the working principle.How project is working and what flow or path it is following.
 
-``` UI (user sends query)-->FastAPI (sends query ) --> RAG Retrive context from vectorstore
-                                                   --> LLM combine query,context and history
+``` 
+UI (user sends query)-->FastAPI (sends query ) --> RAG Retrive context from vectorstore
+                                               --> LLM combine query,context and history
     --> Sends the response to fastapi --> Append the response to UI
 
     (I will paste a well diagram later)

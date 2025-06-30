@@ -44,3 +44,24 @@ Now we combine this the retrived context to LLM and return the response.we had u
 ## Frontend UI
 A basic html ,css javascript code to give a feel like a chatbot.
 
+## WHAT NEXT
+- Now so far i had developed this project and its working quiet impressive but there are lot of practices what i need to fix but thats future scope for now the current good to go thing is that i want to figure out some way to deploy this.
+- If you are reading this and have a idea of how can i deploy this other than the ways i am writing below and is as easy please contact me
+* we can try vercel kind of platform
+* can dockerize this and then push the container on ec2 (i recently learn so chances are higher i will go with this.)
+
+### what chances i will initiate as soon as possible
+* ADD more notes pdf 
+* implementing unstructured pdf loader for images and scanned pdf
+- semantic based text splitter (its experimental can be seen later not now) or chunksize could be reduced to 1000
+* Can shift to cloud vector store pinecone would be great but size might be a issue there
+* A good retriver chain could be used
+* A prompt that leverages best result like (we could add instructoon to summarize ,tell me like a 5yr old ,simplify the explanations ,use examples ,maintain academic tone)
+* In FASTApi we could figure some more validation part
+* For frontend we can opt for REACT as it will me more scalable and looks more practical for such project although current scripts are also working fine
+
+<address>
+Thankyou 
+<author>AYUSH RATURI</author>
+</address>
+

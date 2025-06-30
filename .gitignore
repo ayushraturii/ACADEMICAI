@@ -1,0 +1,4 @@
+myvenv/
+allpdfs/
+__pycache__/
+.env

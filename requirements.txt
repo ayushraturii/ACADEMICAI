@@ -1,0 +1,48 @@
+#langchain
+langchain
+langchain-core
+langchain-community
+
+#openAi
+langchain-openai
+openai
+
+#Anthropic Integration
+langchain-anthropic
+
+#Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+#hugging Face Integration
+langchain-huggingface
+huggingface-hub
+transformers
+
+#Enviornmental Variables
+python-dotenv
+
+
+#ml
+scikit-learn
+numpy
+
+#loader
+pypdf
+# PDF OCR handling
+unstructured[all-docs]
+pdfminer
+poppler-utils
+pdfminer.six==20221105
+pdf2image
+pytesseract
+requests
+pi-heif
+
+#vectorstore
+chromadb
+faiss-cpu
+langchain-chroma
+fastapi
+pydantic
+jinja2
